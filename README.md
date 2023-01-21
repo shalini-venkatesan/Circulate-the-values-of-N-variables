@@ -32,7 +32,7 @@ def circulate():
 ```
 
 ## Output:
-![output](/10.png)
+![output](/e.jpg)
 
 ## Result:
 Thus the program to circulate the n variables using fuction is executed successfully
